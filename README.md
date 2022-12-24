@@ -3,7 +3,6 @@
 <h3 align="center">I'm a Python/Django Developer</h3>
 
 ## 💁🏻‍♂️ About Me
-- 🔭 I’m currently working on [Tech Academy Baku](https://github.com/TechAcademy-Azerbaijan)
 - 📫 How to reach me: **rmusayevr19@gmail.com**
 
 ## 🚀 Languages and Technologies:
