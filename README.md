@@ -41,10 +41,7 @@ I build scalable backend architecture, production-grade APIs and AI-powered syst
 
 ### GitHub stats
 
-<p>
-  <img height="150" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=rmusayevr&show_icons=true&hide_border=true&bg_color=0,0,0,0&title_color=004643&icon_color=004643&text_color=777777"/>
-  <img height="150" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmusayevr&layout=compact&hide_border=true&bg_color=0,0,0,0&title_color=004643&text_color=777777"/>
-</p>
+<img src="./metrics.svg" alt="GitHub metrics"/>
 
 ### Get in touch
 
