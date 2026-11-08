@@ -21,7 +21,7 @@ I build scalable backend architecture, production-grade APIs and AI-powered syst
 - Freelance software engineer at **Speakday**, a real-time AI conversation platform
 - Freelance software engineer at **Hara**, an event ticketing platform with seat selection and bank payments
 - IT Tech Lead at **MECC Group**, four production platforms from design to deployment
-- Ph.D. research on LLM-based multi-agent systems and knowledge graphs
+- Ph.D. research at Széchenyi István University on knowledge graphs and RAG for IT operations
 
 ### Featured work
 
@@ -29,6 +29,7 @@ I build scalable backend architecture, production-grade APIs and AI-powered syst
 | --- | --- | --- |
 | [**simurgh-ai**](https://github.com/rmusayevr/simurgh-ai) | M.Sc. thesis: a multi-agent platform where LLM agents act as stakeholders and review architectural decisions and requirements, grounded with RAG | Django, PostgreSQL, pgvector, Celery, OpenAI API |
 | [**mecc.group**](https://mecc.group) | Bilingual EN/HU sites and a shared admin platform with SSO, per-brand roles and row-level security | React, TanStack Start, Supabase, Cloudflare Workers |
+| [**Graph as Data, Graph as Organizer**](https://doi.org/10.5281/zenodo.23560100) | Co-authored GraphRAG study package: a fixed comparison of two graph-based question-answering configurations, with coding records and audit scripts | GraphRAG, RDF, knowledge graphs |
 
 ### Tech
 
