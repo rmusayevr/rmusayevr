@@ -18,8 +18,9 @@ I build scalable backend architecture, production-grade APIs and AI-powered syst
 
 ### What I'm doing now
 
-- Contract backend engineer at **Speakday**, a real-time AI conversation platform
-- Freelance engineer for **MECC Group**, four production platforms from design to deployment
+- Freelance software engineer at **Speakday**, a real-time AI conversation platform
+- Freelance software engineer at **Hara**, an event ticketing platform with seat selection and bank payments
+- IT Tech Lead at **MECC Group**, four production platforms from design to deployment
 - Ph.D. research on LLM-based multi-agent systems and knowledge graphs
 
 ### Featured work
@@ -33,7 +34,7 @@ I build scalable backend architecture, production-grade APIs and AI-powered syst
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,postgres,redis,mongodb,mysql&perline=8" alt="Backend and data"/><br/>
-  <img src="https://skillicons.dev/icons?i=ts,react,svelte,tailwind,docker,kubernetes,aws,cloudflare,githubactions,linux&perline=10" alt="Frontend and infrastructure"/>
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,svelte,tailwind,docker,kubernetes,aws,cloudflare,githubactions,linux&perline=11" alt="Frontend and infrastructure"/>
 </p>
 
 **AI:** LLMs · RAG · multi-agent systems · knowledge graphs · prompt engineering · pgvector
